@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashjariwala
 - 👀 I’m interested in coding software hardware iot and electrical stuff.
-- 🌱 I’m currently learning android & iOS development.
+- 🌱 I’m currently learning Android & iOS development.
 - 📫 How to reach me - yashjariwala@gmail.com
 
 <!---
